@@ -1,19 +1,36 @@
+body{
+  background-color: rgb(37, 37, 37);
+}
 .home{
   background-image: url(./components/images/Eberron.png);
   background-size: contain;
   background-repeat: no-repeat;
-  margin-left: 20%;
-  width: 60%;
-  padding-top: 80%;
+  margin-top: 3%;
+  margin-left: 10%;
+  width: 80%;
+  padding-top: 100%;
+  text-shadow: 1px 1px black;
+}
+.sharn{
 
+  background-image: url(./components/images/Sharn.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-top: 3%;
+  margin-left: 10%;
+  width: 80%;
+  padding-top: 100%;
+  text-shadow: 1px 1px black;
 }
 .jumbotron {
   font-family: 'Metal Mania', cursive;
   position: absolute;
-  left: 0;
-  width: 20%;
-  top: 10%;
-  height: 140%;
+  left: 13%;
+  width: 73%;
+  top: 5%;
+  background-color: transparent;
+  text-align: center;
+  color: tomato;
 }
 h1{
   font-size: xx-large;
