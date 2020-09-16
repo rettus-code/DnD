@@ -12,14 +12,15 @@ body{
   text-shadow: 1px 1px black;
 }
 .sharn{
-
+  border-radius: 45px 55px 65px 65px;
+  border: 5px groove burlywood;
   background-image: url(./components/images/Sharn.jpg);
   background-size: contain;
   background-repeat: no-repeat;
   margin-top: 3%;
-  margin-left: 10%;
-  width: 80%;
-  padding-top: 100%;
+  margin-left: 11%;
+  width: 76.5%;
+  padding-top: 99%;
   text-shadow: 1px 1px black;
 }
 .jumbotron {
