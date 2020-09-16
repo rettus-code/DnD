@@ -2,6 +2,7 @@ body{
   background-color: rgb(37, 37, 37);
 }
 .home{
+  border: 5px groove burlywood;
   background-image: url(./components/images/Eberron.png);
   background-size: contain;
   background-repeat: no-repeat;
@@ -29,11 +30,17 @@ body{
   background-image: url(./components/images/Apok.jpg);
   background-size: contain;
   background-repeat: no-repeat;
-  margin-top: 0;
-  margin-left: 0;
-  width: 31%;
-  padding-top: 43%;
+  margin-top: 2%;
+  margin-left: 3%;
+  margin-right: 3%;
+  width: 93%;
+  padding-top: 129%;
   text-shadow: 1px 1px black;
+}
+.card {
+  margin-top: 2%;
+  width: 100%;
+  float: right;
 }
 .jumbotron {
   font-family: 'Metal Mania', cursive;
