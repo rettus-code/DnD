@@ -23,6 +23,18 @@ body{
   padding-top: 99%;
   text-shadow: 1px 1px black;
 }
+.Apok{
+  border-radius: 45px 55px 65px 65px;
+  border: 5px groove burlywood;
+  background-image: url(./components/images/Apok.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-top: 0;
+  margin-left: 0;
+  width: 31%;
+  padding-top: 43%;
+  text-shadow: 1px 1px black;
+}
 .jumbotron {
   font-family: 'Metal Mania', cursive;
   position: absolute;
