@@ -7,6 +7,7 @@ import Sharn from "./components/pages/Sharn";
 import Setting from "./components/pages/Setting";
 import Apok from "./components/pages/charachters/Apok.js";
 import Silvertone from './components/pages/charachters/Silvertone.js';
+import Keys from './components/pages/charachters/Keys.js';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       <Route path="/setting" component={Setting} />
       <Route path="/Apok" component={Apok} />
       <Route path="/Silvertone" component={Silvertone} />
+      <Route path="/Keys" component={Keys} />
       {/* <Footer /> */}
     </div>
   </Router>

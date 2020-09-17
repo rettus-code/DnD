@@ -26,8 +26,8 @@ export default function Header() {
         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
           <a class="dropdown-item" href="/Apok">Silent Statue</a>
           <a class="dropdown-item" href="/Silvertone">Mike McSilvertone</a>
-          {/* <a class="dropdown-item" href={Keys}>Orc Pirate</a>
-          <a class="dropdown-item" href={Rettus}>Goblin Pack</a>
+          <a class="dropdown-item" href="/Keys">Orc Pirate</a>
+          {/* <a class="dropdown-item" href={Rettus}>Goblin Pack</a>
           <a class="dropdown-item" href={Megan}>Confused Artificer</a>
           <a class="dropdown-item" href={Josh}>Unhelpful Cleric</a>
           <a class="dropdown-item" href={Lym}>Dizzy Sorcerer</a>
