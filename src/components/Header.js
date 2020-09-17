@@ -28,10 +28,10 @@ export default function Header() {
           <a class="dropdown-item" href="/Silvertone">Mike McSilvertone</a>
           <a class="dropdown-item" href="/Keys">Roksteadi</a>
           <a class="dropdown-item" href="/Needles">Nazul</a>
-          {/* <a class="dropdown-item" href={Megan}>Confused Artificer</a>
-          <a class="dropdown-item" href={Josh}>Unhelpful Cleric</a>
-          <a class="dropdown-item" href={Lym}>Dizzy Sorcerer</a>
-          <a class="dropdown-item" href={Joe}>Light Fingers</a> */}
+          <a class="dropdown-item" href="/Megan">Confused Artificer</a>
+          <a class="dropdown-item" href="/Josh">Unhelpful Cleric</a>
+          <a class="dropdown-item" href="/Naga">Naga</a>
+          <a class="dropdown-item" href="/Duncan">Duncan</a>
         </div>
       </li>
     </ul>

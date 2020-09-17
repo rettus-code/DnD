@@ -70,10 +70,33 @@ body{
   width: 90%;
   padding-top: 102.6%;
 }
-.card {
+.Duncan{
+  border-radius: 45px 55px 65px 65px;
+  border: 5px groove burlywood;
+  background-image: url(./components/images/Duncan.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
   margin-top: 2%;
-  width: 100%;
-  float: right;
+  margin-left: 3%;
+  margin-right: 3%;
+  width: 84.5%;
+  padding-top: 125%;
+}
+.Josh{
+  border-radius: 45px 55px 65px 65px;
+  border: 5px groove burlywood;
+  background-image: url(./components/images/Josh.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-top: 2%;
+  margin-left: 3%;
+  margin-right: 3%;
+  width: 95%;
+  padding-top: 93.6%;
+}
+.card {
+  margin: 2%;
+  width: 96%;
   text-align: center;
   font-size: 1.3rem;
 }
