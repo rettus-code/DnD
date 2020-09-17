@@ -11,13 +11,13 @@ export default function Keys() {
         <div className="card">
             <div className="card-header">Keys</div>
             <ul class="list-group list-group-flush">
-                <li className="list-group-item">Combat role: Tank/Damage <br/> Group Role: Muscle and connections with warforge in Sharn</li>
-                <li className="list-group-item">While always ready for anything Apok is not quick to start a fight. Steady and vigilante as 
-                the rock he was born of you will be hard pressed to catch him unaware. He prefers to watch than draw attention, though what 
-                he is watching for can be a different matter and of some debate since he's not likely to explain it either.</li>
-                <li className="list-group-item"><strong>Official Report:</strong><br/>To date Apok was key in rescuing an informant, and helped 
-                establish the mercanary group we are just now beggining to hear about. It seems he still has greater stories ahead than behind,
-                but we'll be watching closely to see how he chooses to advance.</li>
+                <li className="list-group-item">Combat role: Tank/Damage <br/> Group Role: Muscle, Sea fairing skills and pirate connections</li>
+                <li className="list-group-item">Aye , Looking for a good time, not so honest work and loyal friends to be workin with. He's not to quick to 
+                trust, but it goes along way when he does. He looks after his and his own, cross any of them and ye be lucky to get a warning for it. Brute he 
+                might be, there's a clverness to him that often surprises those caught unawares.</li>
+                <li className="list-group-item"><strong>Official Report:</strong><br/>Involved rescuing an informant, displayed incredible restraint avoiding
+                using brute force in favor of waiting for tactical advantage. A keen mind behind the muscles make this one dangerous if he has time to establish
+                himself. To loyal to likely turn, but may be nudged to break and form a group under his leadership. To soon to say wether direct influence is needed.</li>
             </ul>
         </div>
         </div>
