@@ -58,6 +58,18 @@ body{
   width: 90%;
   padding-top: 125.4%;
 }
+.Needles{
+  border-radius: 45px 55px 65px 65px;
+  border: 5px groove burlywood;
+  background-image: url(./components/images/Goblin.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-top: 2%;
+  margin-left: 3%;
+  margin-right: 3%;
+  width: 90%;
+  padding-top: 102.6%;
+}
 .card {
   margin-top: 2%;
   width: 100%;

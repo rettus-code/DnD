@@ -9,7 +9,7 @@ export default function Keys() {
         <div className="col-sm-0 col-lg-1"></div>
         <div className="col-sm-12 col-lg-5">
         <div className="card">
-            <div className="card-header">Keys</div>
+            <div className="card-header">Roksteadi</div>
             <ul class="list-group list-group-flush">
                 <li className="list-group-item">Combat role: Tank/Damage <br/> Group Role: Muscle, Sea fairing skills and pirate connections</li>
                 <li className="list-group-item">Aye , Looking for a good time, not so honest work and loyal friends to be workin with. He's not to quick to 
