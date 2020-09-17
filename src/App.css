@@ -94,6 +94,30 @@ body{
   width: 95%;
   padding-top: 93.6%;
 }
+.Megan{
+  border-radius: 45px 55px 65px 65px;
+  border: 5px groove burlywood;
+  background-image: url(./components/images/artificer.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-top: 2%;
+  margin-left: 3%;
+  margin-right: 3%;
+  width: 88%;
+  padding-top: 120%;
+}
+.Naga{
+  border-radius: 45px 55px 65px 65px;
+  border: 5px groove burlywood;
+  background-image: url(./components/images/Naga.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-top: 2%;
+  margin-left: 3%;
+  margin-right: 3%;
+  width: 86%;
+  padding-top: 124%;
+}
 .card {
   margin: 2%;
   width: 96%;
